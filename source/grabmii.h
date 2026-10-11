@@ -2,7 +2,7 @@
 
 #ifndef GRABMII_H
 #define GRABMII_H
-#define GRABMII_VERSION "3.4"
+#define GRABMII_VERSION "1.0"
 #define MII_DB_PATH "/shared2/menu/FaceLib/RFL_DB.dat"
 #define MII_SIZE 74
 #define MAX_MIIS 100

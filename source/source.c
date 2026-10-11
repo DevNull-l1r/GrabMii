@@ -602,8 +602,8 @@ bool showNandWarning() {
     printf(" * DO NOT REMOVE YOUR STORAGE DEVICE.\n\n");
     printf(" THIS TOOL COMES WITHOUT ANY WARRANTIES\n");
     printf(" AND YOU ARE USING THIS APP AT YOUR OWN RISK.\n\n");
-    printf(" This is version BETA %s. App is almost done!\n", GRABMII_VERSION);
-    printf(" but I need beta testers XD\n");
+    printf(" This is version %s. And has been tested on multiple\n", GRABMII_VERSION);
+    printf(" Wii consoles and even Dolphin Emulator. I know it works.\n");
     printf("------------------------------------------\n");
 
     // Haha better read this warning buddy

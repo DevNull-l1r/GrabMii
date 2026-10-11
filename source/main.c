@@ -34,7 +34,7 @@ int main(int argc, char **argv) {
 
         printf("\x1b[2;0H");
         printf("==========================================\n");
-        printf("         GrabMii vBETA %s by Null          \n", GRABMII_VERSION);
+        printf("         GrabMii v%s by Null          \n", GRABMII_VERSION);
         printf("==========================================\n\n");
         printf("Target Device: [ %s ] (Press - to swap)\n", device);
         if (deviceReady) {
