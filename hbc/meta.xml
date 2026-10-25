@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<app version="1">
+  <name>GrabMii</name>
+	<coder>DevNull-l1r</coder>
+	<version>2.0</version>
+  <release_date>10/25/2026</release_date>
+	<short_description>A tool to backup, install, and convert Miis.</short_description>
+	<long_description>A tool to backup your Miis to your sd/usb, import them directly to the Mii channel from the sd/usb, and convert a Wii U and 3DS Mii to a Wii Mii (Gii, i said "ii" a lot).</long_description>
+	<no_ios_reload/>
+	<ahb_access/>
+</app>
