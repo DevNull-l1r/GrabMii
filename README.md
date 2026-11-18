@@ -18,3 +18,13 @@ In more detail, this app allows you to:
   * Backup your Mii Database (`RFL_DB.dat`) to your storage device (as `RFL_DB_0X.bak`)
 
 The app is very straightforward to use, and fairly easy to troubleshoot as well 👍
+
+---
+
+# Credits/Acknowledgments
+**DevNull-l1r**: Pretty much all code, supervision, and most testing
+**Caver1K**: A LOT of testing over the past months (and corrupting his Mii channel once or twice in *very* early stages)
+**Abdelali221**: (Yeah yeah I know you didn't want credits) Helping with nickname extraction and teaching me lots of things
+Everyone who decided to help make like 50 detailed Wii U and 3DS Miis for testing
+
+I first started this app back in January 2026, and only thing I knew was a little bit of Python. This app was a challenge to myself to learn how to code while writing a full app at the same time. I think I succeeded
