@@ -8,6 +8,7 @@
 ## By Null
 
 **GrabMii is a tool to backup and import your Miis to/from a storage device, and convert Wii U and 3DS Miis.**
+This app is meant to be an upgrade to Mii Extractor + Mii Installer (by Waninkoko) as this app both combines the two into one app, plus adds bug fixes and more features. 
 
 In more detail, this app allows you to:
 
