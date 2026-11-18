@@ -23,7 +23,7 @@ The app is very straightforward to use, and fairly easy to troubleshoot as well 
 
 ---
 
-# Credits/Acknowledgments
+## Credits/Acknowledgments
 - **DevNull-l1r**: Pretty much all code, supervision, and most testing
 - **Caver1K**: A LOT of testing over the past months (and corrupting his Mii channel once or twice in *very* early stages)
 - **Abdelali221**: (Yeah yeah I know you didn't want credits) Helping with nickname extraction and teaching me lots of things
